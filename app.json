@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "fyp-mobile",
+    "name": "FindSight",
     "slug": "fyp-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -8,22 +8,41 @@
     "scheme": "fypmobile",
     "userInterfaceStyle": "automatic",
     "ios": {
-      "icon": "./assets/expo.icon"
+      "icon": "./assets/expo.icon",
+      "bundleIdentifier": "com.findsight.mobile",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "Allow FindSight to attach a photo when reporting a missing person.",
+        "NSCameraUsageDescription": "Allow FindSight to take a photo when reporting a missing person."
+      }
     },
     "android": {
+      "package": "com.findsight.mobile",
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ]
     },
     "web": {
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
+    "extra": {
+      "apiUrl": "http://127.0.0.1:8000",
+      "eas": {
+        "projectId": "ff7d1c45-a083-434e-b6af-0b54e0b1de5a"
+      },
+      "router": {}
+    },
     "plugins": [
+      ["expo-location", {"locationWhenInUsePermission": "Allow FindSight to place your report on the map when you choose to share your location."}],
       "expo-router",
       [
         "expo-splash-screen",
@@ -32,11 +51,27 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
+      ],
+      "expo-secure-store",
+      [
+        "expo-notifications",
+        {
+          "color": "#208AEF",
+          "defaultChannel": "default"
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Allow FindSight to attach a photo when reporting a missing person.",
+          "cameraPermission": "Allow FindSight to take a photo when reporting a missing person."
+        }
       ]
     ],
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "owner": "xaingf35"
   }
 }

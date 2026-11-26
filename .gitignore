@@ -41,3 +41,6 @@ example
 # generated native folders
 /ios
 /android
+
+# Firebase Admin SDK credentials must never be committed.
+*-firebase-adminsdk-*.json

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155231736475",
+    "project_id": "fyp-project-1f17f",
+    "storage_bucket": "fyp-project-1f17f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155231736475:android:3e8ecc71482aea5a1b2c3e",
+        "android_client_info": {
+          "package_name": "com.findsight.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBMxqofX2VYvs0gPMkf4KEi3z0X2ctSAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

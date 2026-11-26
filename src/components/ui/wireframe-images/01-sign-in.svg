@@ -1,0 +1,472 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="245" height="490" viewBox="17 52 245 490">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#111} .title{font-size:16px;font-weight:bold} .tiny{font-size:8px} .small{font-size:10px} .label{font-size:11px;font-weight:bold} .stroke{fill:white;stroke:#111;stroke-width:1.2} .line{stroke:#111;stroke-width:1.1;fill:none}</style>
+<text class="title" x="17" y="38">01  Sign in</text>
+<g transform="translate(17,52)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="label" x="16" y="37">Sign in</text>
+<path class="line" d="M0 48L245 48"/>
+<text class="title" x="78" y="117">FindSight</text>
+<text class="tiny" x="28" y="137">Missing person reporting and search</text>
+<text class="tiny" x="18" y="177">Email</text>
+<rect class="stroke" x="18" y="182" width="209" height="27" rx="2"/>
+<text class="tiny" x="26" y="199">you@example.com</text>
+<text class="tiny" x="18" y="227">Password</text>
+<rect class="stroke" x="18" y="232" width="209" height="27" rx="2"/>
+<text class="tiny" x="26" y="249">••••••••</text>
+<rect class="stroke" x="18" y="288" width="209" height="28" rx="3"/>
+<text class="small" x="122.5" y="306">Sign in</text>
+<rect class="stroke" x="18" y="327" width="209" height="28" rx="3"/>
+<text class="small" x="122.5" y="345">Continue as guest</text>
+<text class="tiny" x="35" y="393">Officers can access case management</text>
+</g>
+<text class="title" x="290" y="38">02  Missing persons · list</text>
+<g transform="translate(290,52)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="label" x="16" y="37">Missing Persons</text>
+<text class="tiny" x="228" y="37">Report</text>
+<path class="line" d="M0 48L245 48"/>
+<text class="tiny" x="16" y="68">Track a case       Offline reports</text>
+<text class="tiny" x="16" y="82"></text>
+<rect class="stroke" x="16" y="87" width="213" height="27" rx="2"/>
+<text class="tiny" x="24" y="104">Search name or location</text>
+<rect class="stroke" x="16" y="126" width="99" height="28" rx="3"/>
+<text class="small" x="65.5" y="144">List</text>
+<rect class="stroke" x="129" y="126" width="100" height="28" rx="3"/>
+<text class="small" x="179.0" y="144">Grid</text>
+<rect class="stroke" x="16" y="166" width="213" height="76" rx="3"/>
+<text class="label" x="25" y="184">Aisyah Binti Ali</text>
+<text class="tiny" x="25" y="198">Case # 000123</text>
+<text class="tiny" x="25" y="213">Last seen: Kuala Lumpur</text>
+<rect class="stroke" x="171" y="175" width="47" height="47" rx="0"/>
+<path class="line" d="M171 175L218 222"/>
+<path class="line" d="M218 175L171 222"/>
+<text class="tiny" x="25" y="230">● ● ● ● ☆</text>
+<rect class="stroke" x="16" y="251" width="213" height="76" rx="3"/>
+<text class="label" x="25" y="269">Daniel Lim</text>
+<text class="tiny" x="25" y="283">Case # 000124</text>
+<text class="tiny" x="25" y="298">Last seen: Kuala Lumpur</text>
+<rect class="stroke" x="171" y="260" width="47" height="47" rx="0"/>
+<path class="line" d="M171 260L218 307"/>
+<path class="line" d="M218 260L171 307"/>
+<text class="tiny" x="25" y="315">● ● ● ● ☆</text>
+<rect class="stroke" x="16" y="336" width="213" height="76" rx="3"/>
+<text class="label" x="25" y="354">Raj Kumar</text>
+<text class="tiny" x="25" y="368">Case # 000125</text>
+<text class="tiny" x="25" y="383">Last seen: Kuala Lumpur</text>
+<rect class="stroke" x="171" y="345" width="47" height="47" rx="0"/>
+<path class="line" d="M171 345L218 392"/>
+<path class="line" d="M218 345L171 392"/>
+<text class="tiny" x="25" y="400">● ● ● ● ☆</text>
+<path class="line" d="M0 449L245 449"/>
+<circle class="stroke" cx="31" cy="464" r="5"/>
+<text class="tiny" x="15" y="483">Browse</text>
+<path class="line" d="M14 487L48 487"/>
+<circle class="stroke" cx="92" cy="464" r="5"/>
+<text class="tiny" x="76" y="483">Cases</text>
+<circle class="stroke" cx="153" cy="464" r="5"/>
+<text class="tiny" x="137" y="483">Report</text>
+<circle class="stroke" cx="214" cy="464" r="5"/>
+<text class="tiny" x="198" y="483">Profile</text>
+</g>
+<text class="title" x="563" y="38">03  Missing persons · grid</text>
+<g transform="translate(563,52)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="label" x="16" y="37">Missing Persons</text>
+<text class="tiny" x="228" y="37">Report</text>
+<path class="line" d="M0 48L245 48"/>
+<text class="tiny" x="16" y="68"></text>
+<rect class="stroke" x="16" y="73" width="213" height="27" rx="2"/>
+<text class="tiny" x="24" y="90">Search name or location</text>
+<rect class="stroke" x="16" y="112" width="99" height="28" rx="3"/>
+<text class="small" x="65.5" y="130">List</text>
+<rect class="stroke" x="129" y="112" width="100" height="28" rx="3"/>
+<text class="small" x="179.0" y="130">Grid</text>
+<rect class="stroke" x="16" y="151" width="102" height="126" rx="2"/>
+<rect class="stroke" x="24" y="159" width="86" height="75" rx="0"/>
+<path class="line" d="M24 159L110 234"/>
+<path class="line" d="M110 159L24 234"/>
+<text class="tiny" x="24" y="250">Aisyah Ali</text>
+<text class="tiny" x="24" y="264">Case # 000123</text>
+<rect class="stroke" x="127" y="151" width="102" height="126" rx="2"/>
+<rect class="stroke" x="135" y="159" width="86" height="75" rx="0"/>
+<path class="line" d="M135 159L221 234"/>
+<path class="line" d="M221 159L135 234"/>
+<text class="tiny" x="135" y="250">Daniel Lim</text>
+<text class="tiny" x="135" y="264">Case # 000124</text>
+<rect class="stroke" x="16" y="290" width="102" height="126" rx="2"/>
+<rect class="stroke" x="24" y="298" width="86" height="75" rx="0"/>
+<path class="line" d="M24 298L110 373"/>
+<path class="line" d="M110 298L24 373"/>
+<text class="tiny" x="24" y="389">Raj Kumar</text>
+<text class="tiny" x="24" y="403">Case # 000125</text>
+<rect class="stroke" x="127" y="290" width="102" height="126" rx="2"/>
+<rect class="stroke" x="135" y="298" width="86" height="75" rx="0"/>
+<path class="line" d="M135 298L221 373"/>
+<path class="line" d="M221 298L135 373"/>
+<text class="tiny" x="135" y="389">Siti Nur</text>
+<text class="tiny" x="135" y="403">Case # 000126</text>
+<path class="line" d="M0 449L245 449"/>
+<circle class="stroke" cx="31" cy="464" r="5"/>
+<text class="tiny" x="15" y="483">Browse</text>
+<path class="line" d="M14 487L48 487"/>
+<circle class="stroke" cx="92" cy="464" r="5"/>
+<text class="tiny" x="76" y="483">Cases</text>
+<circle class="stroke" cx="153" cy="464" r="5"/>
+<text class="tiny" x="137" y="483">Report</text>
+<circle class="stroke" cx="214" cy="464" r="5"/>
+<text class="tiny" x="198" y="483">Profile</text>
+</g>
+<text class="title" x="836" y="38">04  Missing person details</text>
+<g transform="translate(836,52)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="title" x="16" y="38">‹</text>
+<text class="label" x="32" y="37">Case Details</text>
+<path class="line" d="M0 48L245 48"/>
+<rect class="stroke" x="16" y="65" width="86" height="100" rx="0"/>
+<path class="line" d="M16 65L102 165"/>
+<path class="line" d="M102 65L16 165"/>
+<text class="label" x="113" y="85">Aisyah Binti Ali</text>
+<text class="tiny" x="113" y="103">Case # 000123</text>
+<text class="tiny" x="113" y="123">Status: Active</text>
+<path class="line" d="M16 179L229 179"/>
+<text class="label" x="16" y="198">Last seen</text>
+<text class="tiny" x="16" y="216">Jalan Sultan, Kuala Lumpur</text>
+<text class="label" x="16" y="246">Last-worn clothing</text>
+<text class="tiny" x="16" y="263">Red shirt, dark trousers</text>
+<text class="label" x="16" y="293">Distinguishing features</text>
+<text class="tiny" x="16" y="310">Glasses; small scar</text>
+<text class="label" x="16" y="340">Description</text>
+<path class="line" d="M16 353L210 353"/>
+<path class="line" d="M16 362L182 362"/>
+<rect class="stroke" x="16" y="397" width="213" height="28" rx="3"/>
+<text class="small" x="122.5" y="415">I&#x27;ve seen this person</text>
+</g>
+<text class="title" x="17" y="590">05  Report a sighting</text>
+<g transform="translate(17,604)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="title" x="16" y="38">‹</text>
+<text class="label" x="32" y="37">Case Details</text>
+<path class="line" d="M0 48L245 48"/>
+<rect class="stroke" x="9" y="61" width="227" height="408" rx="4"/>
+<text class="title" x="24" y="87">Report a sighting</text>
+<text class="tiny" x="24" y="102">Share where you saw this person</text>
+<text class="tiny" x="24" y="122">Location *</text>
+<rect class="stroke" x="24" y="127" width="197" height="27" rx="2"/>
+<text class="tiny" x="32" y="144">Location or address</text>
+<text class="tiny" x="24" y="169">Date</text>
+<rect class="stroke" x="24" y="174" width="94" height="27" rx="2"/>
+<text class="tiny" x="32" y="191">YYYY-MM-DD</text>
+<text class="tiny" x="128" y="169">Time</text>
+<rect class="stroke" x="128" y="174" width="93" height="27" rx="2"/>
+<text class="tiny" x="136" y="191">HH:MM</text>
+<text class="tiny" x="24" y="216">Your name</text>
+<rect class="stroke" x="24" y="221" width="197" height="27" rx="2"/>
+<text class="tiny" x="32" y="238">Optional</text>
+<text class="tiny" x="24" y="263">Phone</text>
+<rect class="stroke" x="24" y="268" width="197" height="27" rx="2"/>
+<text class="tiny" x="32" y="285">Optional</text>
+<text class="tiny" x="24" y="310">Notes</text>
+<rect class="stroke" x="24" y="315" width="197" height="27" rx="2"/>
+<text class="tiny" x="32" y="332">Clothing, direction...</text>
+<rect class="stroke" x="24" y="360" width="197" height="28" rx="3"/>
+<text class="small" x="122.5" y="378">Attach photos / videos</text>
+<rect class="stroke" x="24" y="402" width="197" height="28" rx="3"/>
+<text class="small" x="122.5" y="420">Submit report</text>
+<text class="small" x="101" y="455">Close</text>
+</g>
+<text class="title" x="290" y="590">06  Missing person report · 1</text>
+<g transform="translate(290,604)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="title" x="16" y="38">‹</text>
+<text class="label" x="32" y="37">Report a missing person</text>
+<path class="line" d="M0 48L245 48"/>
+<text class="tiny" x="16" y="69">Full name *</text>
+<rect class="stroke" x="16" y="74" width="213" height="27" rx="2"/>
+<text class="tiny" x="24" y="91">e.g. Ahmad bin Ali</text>
+<text class="tiny" x="16" y="115">IC number</text>
+<rect class="stroke" x="16" y="120" width="213" height="27" rx="2"/>
+<text class="tiny" x="16" y="172">Gender</text>
+<rect class="stroke" x="16" y="180" width="101" height="29" rx="2"/>
+<rect class="stroke" x="127" y="180" width="102" height="29" rx="2"/>
+<text class="small" x="48" y="199">Male</text>
+<text class="small" x="155" y="199">Female</text>
+<text class="tiny" x="16" y="224">Date of birth</text>
+<rect class="stroke" x="16" y="229" width="213" height="27" rx="2"/>
+<text class="tiny" x="24" y="246">YYYY-MM-DD</text>
+<text class="label" x="16" y="285">Person specifications</text>
+<text class="tiny" x="16" y="300">Ethnicity</text>
+<rect class="stroke" x="16" y="305" width="101" height="27" rx="2"/>
+<text class="tiny" x="127" y="300">Nationality</text>
+<rect class="stroke" x="127" y="305" width="102" height="27" rx="2"/>
+<text class="tiny" x="16" y="350">Height (cm)</text>
+<rect class="stroke" x="16" y="355" width="101" height="27" rx="2"/>
+<text class="tiny" x="127" y="350">Weight (kg)</text>
+<rect class="stroke" x="127" y="355" width="102" height="27" rx="2"/>
+<text class="tiny" x="16" y="400">Hair type</text>
+<rect class="stroke" x="16" y="405" width="101" height="27" rx="2"/>
+<text class="tiny" x="127" y="400">Hair color</text>
+<rect class="stroke" x="127" y="405" width="102" height="27" rx="2"/>
+</g>
+<text class="title" x="563" y="590">07  Missing person report · 2</text>
+<g transform="translate(563,604)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="title" x="16" y="38">‹</text>
+<text class="label" x="32" y="37">Report a missing person</text>
+<path class="line" d="M0 48L245 48"/>
+<text class="tiny" x="16" y="68">Last-worn clothing</text>
+<rect class="stroke" x="16" y="73" width="213" height="27" rx="2"/>
+<text class="tiny" x="16" y="116">Distinguishing features</text>
+<rect class="stroke" x="16" y="121" width="213" height="27" rx="2"/>
+<text class="tiny" x="16" y="164">Last seen location *</text>
+<rect class="stroke" x="16" y="169" width="213" height="27" rx="2"/>
+<text class="tiny" x="16" y="212">Last seen date</text>
+<rect class="stroke" x="16" y="217" width="213" height="27" rx="2"/>
+<text class="tiny" x="16" y="260">Description</text>
+<rect class="stroke" x="16" y="265" width="213" height="27" rx="2"/>
+<text class="tiny" x="16" y="317">Photo</text>
+<rect class="stroke" x="16" y="327" width="73" height="65" rx="0"/>
+<path class="line" d="M16 327L89 392"/>
+<path class="line" d="M89 327L16 392"/>
+<rect class="stroke" x="100" y="345" width="129" height="28" rx="3"/>
+<text class="small" x="164.5" y="363">Choose photo</text>
+<rect class="stroke" x="16" y="410" width="11" height="11" rx="0"/>
+<text class="tiny" x="33" y="420">Consent to sharing report</text>
+<rect class="stroke" x="16" y="441" width="213" height="28" rx="3"/>
+<text class="small" x="122.5" y="459">Submit report</text>
+</g>
+<text class="title" x="836" y="590">08  Report confirmation</text>
+<g transform="translate(836,604)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="title" x="16" y="38">‹</text>
+<text class="label" x="32" y="37">Report submitted</text>
+<path class="line" d="M0 48L245 48"/>
+<circle class="stroke" cx="122" cy="155" r="37"/>
+<text class="title" x="107" y="168">✓</text>
+<text class="title" x="49" y="229">Report submitted</text>
+<text class="small" x="68" y="257">Your case number is</text>
+<rect class="stroke" x="35" y="272" width="175" height="56" rx="2"/>
+<text class="label" x="75" y="306">MP-2026-00123</text>
+<text class="tiny" x="36" y="357">An officer will review your case.</text>
+<rect class="stroke" x="16" y="406" width="213" height="28" rx="3"/>
+<text class="small" x="122.5" y="424">Back to gallery</text>
+</g>
+<text class="title" x="17" y="1142">09  Track a case</text>
+<g transform="translate(17,1156)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="title" x="16" y="38">‹</text>
+<text class="label" x="32" y="37">Track a case</text>
+<path class="line" d="M0 48L245 48"/>
+<text class="tiny" x="16" y="74">Enter your case number to check status.</text>
+<text class="tiny" x="16" y="100">Case number</text>
+<rect class="stroke" x="16" y="105" width="213" height="27" rx="2"/>
+<text class="tiny" x="24" y="122">MP-2026-00123</text>
+<rect class="stroke" x="16" y="156" width="213" height="28" rx="3"/>
+<text class="small" x="122.5" y="174">Check status</text>
+<rect class="stroke" x="16" y="208" width="213" height="143" rx="3"/>
+<text class="label" x="28" y="232">Case # MP-2026-00123</text>
+<text class="small" x="28" y="260">Status: Active</text>
+<text class="small" x="28" y="285">Submitted: 29 Oct 2026</text>
+<text class="small" x="28" y="310">Updated: 29 Oct 2026</text>
+</g>
+<text class="title" x="290" y="1142">10  Officer cases</text>
+<g transform="translate(290,1156)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="label" x="16" y="37">Cases</text>
+<text class="tiny" x="228" y="37">Profile</text>
+<path class="line" d="M0 48L245 48"/>
+<text class="tiny" x="16" y="66"></text>
+<rect class="stroke" x="16" y="71" width="213" height="27" rx="2"/>
+<text class="tiny" x="24" y="88">Search name or case number</text>
+<rect class="stroke" x="16" y="111" width="36" height="25" rx="9"/>
+<text class="tiny" x="23" y="128">All</text>
+<rect class="stroke" x="58" y="111" width="54" height="25" rx="9"/>
+<text class="tiny" x="65" y="128">Active</text>
+<rect class="stroke" x="119" y="111" width="59" height="25" rx="9"/>
+<text class="tiny" x="126" y="128">Found</text>
+<rect class="stroke" x="185" y="111" width="44" height="25" rx="9"/>
+<text class="tiny" x="192" y="128">Other</text>
+<rect class="stroke" x="16" y="153" width="213" height="76" rx="3"/>
+<text class="label" x="25" y="171">Aisyah Binti Ali</text>
+<text class="tiny" x="25" y="185">Case # 000123</text>
+<text class="tiny" x="25" y="200">Last seen: Kuala Lumpur</text>
+<rect class="stroke" x="171" y="162" width="47" height="47" rx="0"/>
+<path class="line" d="M171 162L218 209"/>
+<path class="line" d="M218 162L171 209"/>
+<text class="tiny" x="25" y="217">● ● ● ● ☆</text>
+<rect class="stroke" x="16" y="238" width="213" height="76" rx="3"/>
+<text class="label" x="25" y="256">Daniel Lim</text>
+<text class="tiny" x="25" y="270">Case # 000124</text>
+<text class="tiny" x="25" y="285">Last seen: Kuala Lumpur</text>
+<rect class="stroke" x="171" y="247" width="47" height="47" rx="0"/>
+<path class="line" d="M171 247L218 294"/>
+<path class="line" d="M218 247L171 294"/>
+<text class="tiny" x="25" y="302">● ● ● ● ☆</text>
+<rect class="stroke" x="16" y="323" width="213" height="76" rx="3"/>
+<text class="label" x="25" y="341">Raj Kumar</text>
+<text class="tiny" x="25" y="355">Case # 000125</text>
+<text class="tiny" x="25" y="370">Last seen: Kuala Lumpur</text>
+<rect class="stroke" x="171" y="332" width="47" height="47" rx="0"/>
+<path class="line" d="M171 332L218 379"/>
+<path class="line" d="M218 332L171 379"/>
+<text class="tiny" x="25" y="387">● ● ● ● ☆</text>
+<path class="line" d="M0 449L245 449"/>
+<circle class="stroke" cx="31" cy="464" r="5"/>
+<text class="tiny" x="15" y="483">Browse</text>
+<circle class="stroke" cx="92" cy="464" r="5"/>
+<text class="tiny" x="76" y="483">Cases</text>
+<path class="line" d="M75 487L109 487"/>
+<circle class="stroke" cx="153" cy="464" r="5"/>
+<text class="tiny" x="137" y="483">Report</text>
+<circle class="stroke" cx="214" cy="464" r="5"/>
+<text class="tiny" x="198" y="483">Profile</text>
+</g>
+<text class="title" x="563" y="1142">11  Officer case details</text>
+<g transform="translate(563,1156)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="title" x="16" y="38">‹</text>
+<text class="label" x="32" y="37">Case Details</text>
+<path class="line" d="M0 48L245 48"/>
+<rect class="stroke" x="16" y="67" width="213" height="108" rx="2"/>
+<text class="label" x="27" y="87">Case map</text>
+<circle class="stroke" cx="72" cy="124" r="4"/>
+<circle class="stroke" cx="124" cy="111" r="4"/>
+<circle class="stroke" cx="174" cy="145" r="4"/>
+<rect class="stroke" x="16" y="190" width="73" height="82" rx="0"/>
+<path class="line" d="M16 190L89 272"/>
+<path class="line" d="M89 190L16 272"/>
+<text class="label" x="99" y="210">Aisyah Binti Ali</text>
+<text class="tiny" x="99" y="228">Case # 000123</text>
+<text class="tiny" x="99" y="246">Status: Active</text>
+<text class="label" x="16" y="300">Detections</text>
+<rect class="stroke" x="16" y="310" width="213" height="39" rx="2"/>
+<text class="tiny" x="26" y="334">Camera 01 · 29 Oct 2026</text>
+<text class="label" x="16" y="374">Alerts and sightings</text>
+<rect class="stroke" x="16" y="384" width="213" height="39" rx="2"/>
+<text class="tiny" x="26" y="408">Recent activity item</text>
+</g>
+<text class="title" x="836" y="1142">12  Notifications</text>
+<g transform="translate(836,1156)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="label" x="16" y="37">Notifications</text>
+<text class="tiny" x="228" y="37">Mark all read</text>
+<path class="line" d="M0 48L245 48"/>
+<rect class="stroke" x="16" y="71" width="213" height="68" rx="2"/>
+<circle class="stroke" cx="29" cy="90" r="5"/>
+<text class="label" x="42" y="92">Possible match detected</text>
+<path class="line" d="M42 107L211 107"/>
+<text class="tiny" x="42" y="124">View details   ·   Today</text>
+<rect class="stroke" x="16" y="151" width="213" height="68" rx="2"/>
+<circle class="stroke" cx="29" cy="170" r="5"/>
+<text class="label" x="42" y="172">New case update</text>
+<path class="line" d="M42 187L211 187"/>
+<text class="tiny" x="42" y="204">View details   ·   Today</text>
+<rect class="stroke" x="16" y="231" width="213" height="68" rx="2"/>
+<circle class="stroke" cx="29" cy="250" r="5"/>
+<text class="label" x="42" y="252">Sighting report received</text>
+<path class="line" d="M42 267L211 267"/>
+<text class="tiny" x="42" y="284">View details   ·   Today</text>
+<rect class="stroke" x="16" y="311" width="213" height="68" rx="2"/>
+<circle class="stroke" cx="29" cy="330" r="5"/>
+<text class="label" x="42" y="332">Case status changed</text>
+<path class="line" d="M42 347L211 347"/>
+<text class="tiny" x="42" y="364">View details   ·   Today</text>
+<path class="line" d="M0 449L245 449"/>
+<circle class="stroke" cx="31" cy="464" r="5"/>
+<text class="tiny" x="15" y="483">Browse</text>
+<circle class="stroke" cx="92" cy="464" r="5"/>
+<text class="tiny" x="76" y="483">Cases</text>
+<circle class="stroke" cx="153" cy="464" r="5"/>
+<text class="tiny" x="137" y="483">Report</text>
+<circle class="stroke" cx="214" cy="464" r="5"/>
+<text class="tiny" x="198" y="483">Profile</text>
+<path class="line" d="M197 487L231 487"/>
+</g>
+<text class="title" x="17" y="1694">13  Notification details</text>
+<g transform="translate(17,1708)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="title" x="16" y="38">‹</text>
+<text class="label" x="32" y="37">Notification</text>
+<path class="line" d="M0 48L245 48"/>
+<text class="title" x="16" y="81">Possible match detected</text>
+<path class="line" d="M16 98L211 98"/>
+<path class="line" d="M16 109L180 109"/>
+<text class="tiny" x="16" y="131">29 Oct 2026 · 10:42</text>
+<text class="label" x="16" y="163">Missing person</text>
+<rect class="stroke" x="16" y="175" width="72" height="77" rx="0"/>
+<path class="line" d="M16 175L88 252"/>
+<path class="line" d="M88 175L16 252"/>
+<text class="label" x="98" y="195">Aisyah Binti Ali</text>
+<text class="tiny" x="98" y="213">Case # 000123</text>
+<text class="label" x="16" y="282">Detection</text>
+<rect class="stroke" x="16" y="295" width="213" height="98" rx="2"/>
+<text class="tiny" x="27" y="317">Camera: CCTV 01</text>
+<text class="tiny" x="27" y="337">Location: Kuala Lumpur</text>
+<text class="tiny" x="27" y="357">Time: 10:42</text>
+<rect class="stroke" x="16" y="415" width="213" height="28" rx="3"/>
+<text class="small" x="122.5" y="433">Get directions</text>
+</g>
+<text class="title" x="290" y="1694">14  Profile</text>
+<g transform="translate(290,1708)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="title" x="16" y="38">‹</text>
+<text class="label" x="32" y="37">Profile</text>
+<path class="line" d="M0 48L245 48"/>
+<circle class="stroke" cx="122" cy="104" r="30"/>
+<text class="title" x="113" y="111">A</text>
+<text class="label" x="76" y="152">Officer Account</text>
+<text class="tiny" x="97" y="169">Officer</text>
+<rect class="stroke" x="16" y="193" width="213" height="88" rx="2"/>
+<text class="label" x="28" y="215">Account information</text>
+<text class="tiny" x="28" y="238">Email: officer@example.com</text>
+<text class="tiny" x="28" y="258">Role: Officer</text>
+<rect class="stroke" x="16" y="294" width="213" height="106" rx="2"/>
+<text class="label" x="28" y="318">Push notifications</text>
+<text class="tiny" x="28" y="340">Device status: Registered</text>
+<rect class="stroke" x="28" y="355" width="95" height="28" rx="3"/>
+<text class="small" x="75.5" y="373">Refresh token</text>
+<rect class="stroke" x="134" y="355" width="83" height="28" rx="3"/>
+<text class="small" x="175.5" y="373">Test push</text>
+<rect class="stroke" x="16" y="425" width="213" height="28" rx="3"/>
+<text class="small" x="122.5" y="443">Log out</text>
+</g>
+<text class="title" x="563" y="1694">15  Offline reports</text>
+<g transform="translate(563,1708)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="title" x="16" y="38">‹</text>
+<text class="label" x="32" y="37">Offline reports</text>
+<path class="line" d="M0 48L245 48"/>
+<text class="tiny" x="16" y="72">Saved on this device until connected.</text>
+<rect class="stroke" x="16" y="96" width="213" height="112" rx="2"/>
+<text class="label" x="28" y="118">Waiting to send</text>
+<text class="tiny" x="28" y="138">29 Oct 2026 · Missing person report</text>
+<rect class="stroke" x="28" y="154" width="90" height="28" rx="3"/>
+<text class="small" x="73.0" y="172">Retry</text>
+<rect class="stroke" x="128" y="154" width="89" height="28" rx="3"/>
+<text class="small" x="172.5" y="172">Delete</text>
+<rect class="stroke" x="16" y="223" width="213" height="112" rx="2"/>
+<text class="label" x="28" y="245">Needs attention</text>
+<text class="tiny" x="28" y="265">29 Oct 2026 · Missing person report</text>
+<rect class="stroke" x="28" y="281" width="90" height="28" rx="3"/>
+<text class="small" x="73.0" y="299">Retry</text>
+<rect class="stroke" x="128" y="281" width="89" height="28" rx="3"/>
+<text class="small" x="172.5" y="299">Delete</text>
+</g>
+<text class="title" x="836" y="1694">16  Home</text>
+<g transform="translate(836,1708)">
+<rect class="stroke" x="0" y="0" width="245" height="490" rx="5"/>
+<text class="label" x="16" y="37">FindSight</text>
+<path class="line" d="M0 48L245 48"/>
+<text class="title" x="18" y="90">FindSight</text>
+<text class="small" x="18" y="111">Help locate missing persons.</text>
+<rect class="stroke" x="18" y="145" width="209" height="117" rx="0"/>
+<path class="line" d="M18 145L227 262"/>
+<path class="line" d="M227 145L18 262"/>
+<rect class="stroke" x="18" y="295" width="209" height="28" rx="3"/>
+<text class="small" x="122.5" y="313">Browse missing persons</text>
+<rect class="stroke" x="18" y="335" width="209" height="28" rx="3"/>
+<text class="small" x="122.5" y="353">Report a missing person</text>
+<rect class="stroke" x="18" y="375" width="209" height="28" rx="3"/>
+<text class="small" x="122.5" y="393">Sign in</text>
+</g>
+</svg>
